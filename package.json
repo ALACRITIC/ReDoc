@@ -138,7 +138,7 @@
     "openapi-sampler": "^0.4.2",
     "perfect-scrollbar": "^0.7.0",
     "prismjs": "^1.5.1",
-    "remarkable": "1.7.1",
+    "remarkable": "2.0.0",
     "scrollparent": "^2.0.1",
     "slugify": "^1.0.2",
     "stream-http": "^2.6.1",
